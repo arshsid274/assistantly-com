@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/", "destination": "/www.assistantly.com/index.html" },
+    { "source": "/about-us", "destination": "/www.assistantly.com/about-us/index.html" },
+    { "source": "/blog", "destination": "/www.assistantly.com/blog/index.html" },
+    { "source": "/careers", "destination": "/www.assistantly.com/careers/index.html" },
+    { "source": "/case-studies", "destination": "/www.assistantly.com/case-studies/index.html" },
+    { "source": "/pricing", "destination": "/www.assistantly.com/pricing/index.html" },
+    { "source": "/privacy-policy", "destination": "/www.assistantly.com/privacy-policy/index.html" },
+    { "source": "/process", "destination": "/www.assistantly.com/process/index.html" },
+    { "source": "/terms-and-conditions", "destination": "/www.assistantly.com/terms-and-conditions/index.html" },
+    { "source": "/top-talent", "destination": "/www.assistantly.com/top-talent/index.html" },
+    { "source": "/unicorn", "destination": "/www.assistantly.com/unicorn/index.html" }
+  ]
+}

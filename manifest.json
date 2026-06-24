@@ -1,0 +1,28 @@
+{
+  "source": "https://www.assistantly.com/",
+  "hostname": "www.assistantly.com",
+  "capturedAt": "2026-06-24T08:04:10.191Z",
+  "routes": [
+    "/",
+    "/about-us",
+    "/blog",
+    "/careers",
+    "/case-studies",
+    "/pricing",
+    "/privacy-policy",
+    "/process",
+    "/terms-and-conditions",
+    "/top-talent",
+    "/unicorn"
+  ],
+  "filesSaved": 305,
+  "bytesSaved": 817700,
+  "exhaustive": true,
+  "audit": {
+    "referenced": 295,
+    "present": 295,
+    "missing": [],
+    "external": [],
+    "backfilled": 294
+  }
+}
